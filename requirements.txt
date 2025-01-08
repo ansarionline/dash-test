@@ -418,3 +418,4 @@ yappi==1.6.10
 yarl==1.18.3
 yfinance==0.2.43
 zipp==3.20.0
+gunicorn
