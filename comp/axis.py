@@ -1,6 +1,5 @@
 import dash_bootstrap_components as dbc
 from dash import html, Output,Input
-from dash_daq.ColorPicker import ColorPicker
 fonts = ['Arial', 'Courier New', 'Times New Roman', 'Verdana', 'Georgia', 'Tahoma']
 
 default = {
