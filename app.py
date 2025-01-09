@@ -9,6 +9,7 @@ fig = Figure()
 
 app = dash.Dash(__name__, external_stylesheets=styles,
             suppress_callback_exceptions=True)
+server = app.server
 
 app.layout = html.Div([
     dbc.Row([
